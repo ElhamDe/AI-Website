@@ -26,7 +26,7 @@ This React-based project leverages OpenAI's GPT (Generative Pre-trained Transfor
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-article-summarizer.git
+git clone https://github.com/ElhamDe/AI-Website.git
 
 # Navigate to the project directory
 cd react-article-summarizer
